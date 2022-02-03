@@ -1,2 +1,3 @@
 **/*.ipynb_checkpoints/
 old-experiments
+./data/siamese-models/*

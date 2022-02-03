@@ -11,9 +11,9 @@ Milad Alshomary, Timon Gurcke, Shahbaz Syed, Philipp Heinrich, Maximilian Spliet
 
 For argument and key-point matching the following experiment notebooks should be executed:
 
-- The `experiment-data-prep.ipynb` notebook contains the code that prepare the data for training the siamese model (sbert)
-- The `experiment-sbert-training.ipynb` notebook contains the code to train the key-point matching model
-- The `experiment-evaluation.ipynb` notebook contains the code to generate predictions and evaluate the model
+- The `1.experiment-data-prep.ipynb` notebook contains the code that prepare the data for training the siamese model (sbert)
+- The `2.experiment-sbert-training.ipynb` notebook contains the code to train the key-point matching model
+- The `3.experiment-evaluation.ipynb` notebook contains the code to generate predictions and evaluate the model
 
 
 
@@ -21,7 +21,7 @@ For argument and key-point matching the following experiment notebooks should be
 
 For key-point generation the following experiment notebooks should be executed:
 
-- The `experiment-data-prep-for-track-2.ipynb` notebook contains the code that generate argumentative quality scores needed to run the ArgPageRank
-- The `experiment-page-rank.ipynb` notebook contains the code to generate the key-points using the ArgPageRank
-- The `experiment-evaluation.ipynb` notebook contains the code to perform the final evaluation
+- The `4.experiment-data-prep-for-track-2.ipynb` notebook contains the code that generate argumentative quality scores needed to run the ArgPageRank
+- The `5.experiment-page-rank.ipynb` notebook contains the code to generate the key-points using the ArgPageRank
+- The `6.experiment_evaluation.ipynb` notebook contains the code to perform the final evaluation
 
